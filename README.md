@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=ch1nmay7898&count_private=true&hide=stars,issues&theme=dark&show_icons=true)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1nmay7898&layout=compact&count_private=true&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
